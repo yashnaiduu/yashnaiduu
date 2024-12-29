@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=270&height=30&lines=Full%20Stack%20Developer%3BOpen%20Source%20Contributor%3BTech%20Enthusiast" style="margin-left: 10px;" />
 </div>
 
-# 👨‍�� About Me
+# About Me
 
 Certified coffee-fueled coder at VIT | Struggling to understand algorithms, but enjoying the journey. Open to commiseration (and caffeine).
 
