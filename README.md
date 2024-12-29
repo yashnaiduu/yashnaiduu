@@ -7,12 +7,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=270&height=30&lines=Tech%20Enthusiast" style="margin-left: 10px;" />
 </div>
 
-# 👨‍�� About Me
+# About Me
 
 Certified coffee-fueled coder at VIT | Struggling to understand algorithms, but enjoying the journey. Open to commiseration (and caffeine).
 
 # 💻 Tech Stack
-### 💻 Programming Languages
+ 💻 Programming Languages
 <p>
 <img src="https://img.shields.io/badge/JavaScript-3178C6?style=flat&logo=javascript" alt="JavaScript" /> <img src="https://img.shields.io/badge/Java-3178C6?style=flat&logo=java" alt="Java" /> <img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=python" alt="Python" />
 </p>
