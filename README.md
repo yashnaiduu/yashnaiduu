@@ -4,12 +4,36 @@
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
   <h1 style="margin: 0;">Hi 👋, I'm YASH NAIDU</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=270&height=30&lines=Full%20Stack%20Developer%3BOpen%20Source%20Contributor%3BTech%20Enthusiast" style="margin-left: 10px;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=270&height=30&lines=Tech%20Enthusiast" style="margin-left: 10px;" />
 </div>
 
-# About Me
+# 👨‍�� About Me
 
 Certified coffee-fueled coder at VIT | Struggling to understand algorithms, but enjoying the journey. Open to commiseration (and caffeine).
+
+# 💻 Tech Stack
+### 💻 Programming Languages
+<p>
+<img src="https://img.shields.io/badge/JavaScript-3178C6?style=flat&logo=javascript" alt="JavaScript" /> <img src="https://img.shields.io/badge/Java-3178C6?style=flat&logo=java" alt="Java" /> <img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=python" alt="Python" />
+</p>
+### 🛢 Database
+<p>
+<img src="https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb" alt="MongoDB" />
+</p>
+### ☁️ Cloud & Hosting
+<p>
+<img src="https://img.shields.io/badge/AWS-333333?style=flat&logo=aws" alt="AWS" />
+</p>
+
+# 💻 Workspace Specs
+
+### Operating Systems
+
+![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat&logo=macos&logoColor=white)
+
+### Tools
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=vs-code&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ-007ACC?style=flat&logo=intellij&logoColor=white)
 
 # 📊 GitHub Statistics
 
