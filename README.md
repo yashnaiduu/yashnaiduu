@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=270&height=30&lines=Tech%20Enthusiast" style="margin-left: 10px;" />
 </div>
 
-# About Me
+About Me
 
 Certified coffee-fueled coder at VIT | Struggling to understand algorithms, but enjoying the journey. Open to commiseration (and caffeine).
 
@@ -16,7 +16,7 @@ Certified coffee-fueled coder at VIT | Struggling to understand algorithms, but 
 <p>
 <img src="https://img.shields.io/badge/JavaScript-3178C6?style=flat&logo=javascript" alt="JavaScript" /> <img src="https://img.shields.io/badge/Java-3178C6?style=flat&logo=java" alt="Java" /> <img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=python" alt="Python" />
 </p>
-### 🛢 Database
+🛢 Database
 <p>
 <img src="https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb" alt="MongoDB" />
 </p>
@@ -25,17 +25,17 @@ Certified coffee-fueled coder at VIT | Struggling to understand algorithms, but 
 <img src="https://img.shields.io/badge/AWS-333333?style=flat&logo=aws" alt="AWS" />
 </p>
 
-# 💻 Workspace Specs
+ 💻 Workspace Specs
 
-### Operating Systems
+ Operating Systems
 
 ![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat&logo=macos&logoColor=white)
 
-### Tools
+ Tools
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=vs-code&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ-007ACC?style=flat&logo=intellij&logoColor=white)
 
-# 📊 GitHub Statistics
+ 📊 GitHub Statistics
 
 <p>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yashnaiduu&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" />
