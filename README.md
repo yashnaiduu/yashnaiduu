@@ -20,7 +20,8 @@ Certified coffee-fueled coder at VIT | Struggling to understand algorithms, but 
 <p>
 <img src="https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb" alt="MongoDB" />
 </p>
-### ☁️ Cloud & Hosting
+
+☁️ Cloud & Hosting
 <p>
 <img src="https://img.shields.io/badge/AWS-333333?style=flat&logo=aws" alt="AWS" />
 </p>
