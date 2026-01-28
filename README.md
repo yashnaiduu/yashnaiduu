@@ -14,7 +14,7 @@
   <table border="0">
     <tr>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=yashnaiduu&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00bfff&text_color=e5e5e5&icon_color=00bfff&border_color=333333&include_all_commits=true&hide_rank=true" alt="Yash's Stats" height="150" />
+        <img src="https://github-readme-stats.vercel.app/api?username=yashnaiduu&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00bfff&text_color=e5e5e5&icon_color=00bfff&border_color=333333&hide_rank=true" alt="Yash's Stats" height="150" />
       </td>
       <td width="20">&nbsp;</td>
       <td valign="top">
