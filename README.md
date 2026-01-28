@@ -6,7 +6,7 @@
 </div>
 
 <h2 style="border-bottom: none;">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activity/Sparkles.png" alt="Activity" width="25" height="25" /> Contributions
+  <img src="https://img.icons8.com/ios-glyphs/30/e5e5e5/bar-chart.png" alt="Stats" width="25" height="25" style="vertical-align: middle; margin-right: 10px;" /> Contributions
 </h2>
 
 <div align="center">
@@ -16,7 +16,7 @@
 <br />
 
 <h2 style="border-bottom: none;">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Tech Stack" width="25" height="25" /> Tech Stack & Languages
+  <span style="font-family: monospace; font-size: 1.5rem; color: #e5e5e5; margin-right: 10px;">&lt;/&gt;</span> Tech Stack & Languages
 </h2>
 
 <table border="0" width="100%">
