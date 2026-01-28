@@ -6,20 +6,11 @@
 </div>
 
 <div align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashnaiduu&theme=dark&background=0d1117&ring=00bfff&fire=00bfff&currStreakNum=e5e5e5&sideNums=e5e5e5&currStreakLabel=00bfff&sideLabels=00bfff&border=333333&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yashnaiduu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=e5e5e5&icon_color=00bfff&border_color=333333&hide_rank=true" alt="Yash's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashnaiduu&layout=compact&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=e5e5e5&icon_color=00bfff&border_color=333333&langs_count=6" alt="Top Languages" height="150" />
+</div>
 
-  <table border="0">
-    <tr>
-      <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=yashnaiduu&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00bfff&text_color=e5e5e5&icon_color=00bfff&border_color=333333&hide_rank=true" alt="Yash's Stats" height="150" />
-      </td>
-      <td width="20">&nbsp;</td>
-      <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashnaiduu&layout=compact&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=e5e5e5&icon_color=00bfff&border_color=333333&langs_count=6" alt="Top Languages" height="150" />
-      </td>
-    </tr>
-  </table>
+<br/>
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=yashnaiduu&style=flat-square&color=blue" alt="Profile Views" />
 </div>
