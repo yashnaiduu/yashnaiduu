@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1 style="font-size: 2.5rem; color: #e5e5e5; margin-bottom: 0;">Welcome to YASH NAIDU's Hub</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+YASH+NAIDU's+Hub" alt="Typing SVG" />
   <br />
 </div>
 
