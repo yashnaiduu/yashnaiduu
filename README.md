@@ -4,7 +4,12 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yashnaiduu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=e5e5e5&icon_color=00bfff&hide_rank=true&border_radius=20&v=1012" alt="Yash's Stats" height="200" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yashnaiduu&layout=compact&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=e5e5e5&icon_color=00bfff&langs_count=8&border_radius=20&v=1012" alt="Top Languages" height="200" />
+  <!-- Stats Card (Shifted Left) -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yashnaiduu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=e5e5e5&icon_color=00bfff&hide_rank=true&border_radius=20&v=1015" alt="Yash's Stats" height="200" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <br />
+  <br />
+  <!-- Languages Card (Shifted Right) -->
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yashnaiduu&layout=compact&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=e5e5e5&icon_color=00bfff&langs_count=8&border_radius=20&v=1015" alt="Top Languages" height="200" />
 </div>
